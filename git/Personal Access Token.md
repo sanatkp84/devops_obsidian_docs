@@ -1,3 +1,6 @@
+
+## These are steps to use PAT for using git commands
+
 ```
 Step - 1 : Create PAT on GitHub by giving it repo permission.
 Step - 2 : Copy the PAT
