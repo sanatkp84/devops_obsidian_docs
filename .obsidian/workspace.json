@@ -15,7 +15,7 @@
               "state": {
                 "file": "git/Personal Access Token.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
+    "markdown-cheat-sheet.md",
+    "git/Personal Access Token.md",
+    "Untitled",
     "git_push.sh",
     "Untitled.md",
-    "git/Personal Access Token.md",
     "git",
     "Pasted image 20231123202108.png"
   ]
