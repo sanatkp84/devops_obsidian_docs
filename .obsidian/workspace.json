@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8S/Helm Setup & Steps.md",
-                "mode": "preview",
+                "file": "Jenkins/Jenkins Installation Steps.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8S/Helm Setup & Steps.md",
+                "file": "Jenkins/Jenkins Installation Steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K8S/Helm Setup & Steps.md",
+                "file": "Jenkins/Jenkins Installation Steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K8S/Helm Setup & Steps.md"
+                "file": "Jenkins/Jenkins Installation Steps.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
-    "K8S/Setup Kubeadm.md",
     "K8S/Helm Setup & Steps.md",
+    "Jenkins/Jenkins Installation Steps.md",
+    "Jenkins",
+    "K8S/Setup Kubeadm.md",
     "Docker/To run this two-tier application using Docker Network.md",
     "GitHub/Personal Access Token.md",
     "K8S/To run this two-tier application using Docker Network (Without Docker-compose).md",
