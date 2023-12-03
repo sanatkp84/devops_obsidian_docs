@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jenkins/Jenkins Installation Steps.md",
+                "file": "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jenkins/Jenkins Installation Steps.md",
+                "file": "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jenkins/Jenkins Installation Steps.md",
+                "file": "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jenkins/Jenkins Installation Steps.md"
+                "file": "Jenkins/Integration of GitHub with Jenkins using Credentials.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
-    "K8S/Helm Setup & Steps.md",
     "Jenkins/Jenkins Installation Steps.md",
+    "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
+    "K8S/Helm Setup & Steps.md",
     "Jenkins",
     "K8S/Setup Kubeadm.md",
     "Docker/To run this two-tier application using Docker Network.md",
