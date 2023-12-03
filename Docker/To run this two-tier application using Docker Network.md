@@ -1,4 +1,4 @@
-# To run this two-tier application using Docker Network (Without Docker-compose)
+# To run two-tier application using Docker Network (Without Docker-compose)
 
 - 1st create a docker image from Dockerfile
 ```

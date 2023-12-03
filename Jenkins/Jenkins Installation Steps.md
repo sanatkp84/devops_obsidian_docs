@@ -1,4 +1,4 @@
-# Installation of Jenkins
+# Installation of Jenkins in Ubunutu
 
 1. Jenkins is written in JAVA. So first install java.
 	```
@@ -20,5 +20,26 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-If facing any error during installation then copy the installation code from official documentation of jenkins.
+If facing any error during installation then copy the above installation code from official documentation of jenkins.
+
+3. Start Jenkins :
+
+You can enable the Jenkins service to start at boot with the command:
+
+```
+sudo systemctl enable jenkins
+```
+
+You can start the Jenkins service with the command:
+
+```
+sudo systemctl start jenkins
+```
+
+You can check the status of the Jenkins service using the command:
+
+```
+sudo systemctl status jenkins
+```
+
 
