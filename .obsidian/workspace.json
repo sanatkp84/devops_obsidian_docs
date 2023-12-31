@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
+                "file": "DevOps Classes/GitHub/Git Advanced.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
+                "file": "DevOps Classes/GitHub/Git Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
+                "file": "DevOps Classes/GitHub/Git Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md"
+                "file": "DevOps Classes/GitHub/Git Advanced.md"
               }
             }
           }
@@ -146,17 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e176470b8a88346",
+  "active": "ba3e91b1cd05be91",
   "lastOpenFiles": [
+    "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
+    "DevOps Classes/Deployment Strategies/Implementation of Blue-Green Deployment.md",
+    "DevOps Classes/Deployment Strategies/Architecture.canvas",
+    "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
+    "DevOps Classes/Deployment Strategies/images/Screenshot (107).png",
+    "DevOps Classes/Deployment Strategies/images/Screenshot (109).png",
+    "DevOps Classes/Deployment Strategies/images",
+    "Untitled.canvas",
+    "DevOps Classes/GitHub/Git Advanced.md",
+    "DevOps Classes/Deployment Strategies",
+    "DevOps Classes/Implementation of Deployment Strategies(Blue-Green Deployment).md",
+    "DevOps Classes/GitHub",
+    "Personal Tips/Tips.md",
+    "Personal Tips",
+    "Docker/Creation of a Dockerfile.md",
+    "Docker/To run this two-tier application using Docker Network.md",
+    "GitHub/Personal Access Token.md",
     "Jenkins/Steps for CICD Pipeline.md",
     "Jenkins/Jenkins Installation Steps.md",
     "Jenkins/CICD Pipeline.md",
     "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
     "GitHub/Webhook.md",
-    "GitHub/Personal Access Token.md",
-    "Docker/To run this two-tier application using Docker Network.md",
-    "Docker/Creation of a Dockerfile.md",
-    "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
     "Untitled.md",
     "DevOps Classes/CICD",
     "DevOps Classes/Untitled.canvas",
@@ -171,8 +184,6 @@
     "K8S/Untitled",
     "Docker",
     "K8S",
-    "git_push.sh",
-    "GitHub",
     "Pasted image 20231123202108.png"
   ]
 }
