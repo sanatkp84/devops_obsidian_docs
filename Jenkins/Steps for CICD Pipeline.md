@@ -9,7 +9,7 @@ Deploying a To-Do App on AWS with Jenkins CI/CD Setup :
 7. First install Docker & then Dockerize the app by creating a Dockerfile
 8. To solve the permission denied issue of "docker ps" command, add the user in to Docker Group by using this command :
 ```
-udo usermod -aG docker $USER
+sudo usermod -aG docker $USER
 ```
 9. Then go to the jenkins job
 10. In execute shell run the docker build and run command.

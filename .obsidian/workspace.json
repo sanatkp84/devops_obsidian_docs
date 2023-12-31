@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jenkins/Steps for CICD Pipeline.md",
+                "file": "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jenkins/Steps for CICD Pipeline.md",
+                "file": "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jenkins/Steps for CICD Pipeline.md",
+                "file": "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jenkins/Steps for CICD Pipeline.md"
+                "file": "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md"
               }
             }
           }
@@ -148,17 +148,23 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
-    "Jenkins/CICD Pipeline.md",
     "Jenkins/Steps for CICD Pipeline.md",
-    "GitHub/Webhook.md",
-    "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
     "Jenkins/Jenkins Installation Steps.md",
+    "Jenkins/CICD Pipeline.md",
+    "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
+    "GitHub/Webhook.md",
     "GitHub/Personal Access Token.md",
+    "Docker/To run this two-tier application using Docker Network.md",
+    "Docker/Creation of a Dockerfile.md",
+    "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
+    "Untitled.md",
+    "DevOps Classes/CICD",
+    "DevOps Classes/Untitled.canvas",
+    "DevOps Classes",
+    "Untitled 1.md",
     "K8S/Setup Kubeadm.md",
     "Jenkins/What is Webhook.md",
-    "Docker/Creation of a Dockerfile.md",
     "markdown-cheat-sheet.md",
-    "Docker/To run this two-tier application using Docker Network.md",
     "K8S/Helm Setup & Steps.md",
     "Jenkins",
     "K8S/To run this two-tier application using Docker Network (Without Docker-compose).md",
@@ -166,7 +172,6 @@
     "Docker",
     "K8S",
     "git_push.sh",
-    "Untitled.md",
     "GitHub",
     "Pasted image 20231123202108.png"
   ]
