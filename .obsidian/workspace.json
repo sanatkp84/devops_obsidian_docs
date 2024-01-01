@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/Personal Access Token.md",
+                "file": "DevOps Classes/GitHub/Git Advanced.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/Personal Access Token.md",
+                "file": "DevOps Classes/GitHub/Git Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/Personal Access Token.md",
+                "file": "DevOps Classes/GitHub/Git Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/Personal Access Token.md"
+                "file": "DevOps Classes/GitHub/Git Advanced.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
-    "DevOps Classes/GitHub/Git Advanced.md",
     "GitHub/Personal Access Token.md",
+    "DevOps Classes/GitHub/Git Advanced.md",
     "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
     "DevOps Classes/Deployment Strategies/Implementation of Blue-Green Deployment.md",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",

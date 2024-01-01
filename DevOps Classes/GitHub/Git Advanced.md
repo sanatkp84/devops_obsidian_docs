@@ -106,4 +106,8 @@ vim .gitignore
 - It will skip the 4th and 5th commit which was done in the development branch of remote repository.
 - Here the 1st 3 commits are done in the local branch. So to see the all commit history in details we use rebase.
 
+```
+git pull origin main --rebase
+```
+
 5. Cherry Pick/Stash
