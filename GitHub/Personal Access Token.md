@@ -13,3 +13,12 @@ git remote set-url origin https://<PAT>@github.com/sanatkp84/two-tier-flaskapp-d
 ```
 - Step-5 : Then Push the committed changes.
 
+## Direct Adding of Remote URL for Push & Fetch
+
+```
+git remote add origin https://<PAT>@github.com/sanatkp84/two-tier-flaskapp-deployment.git
+```
+
+```
+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
+```

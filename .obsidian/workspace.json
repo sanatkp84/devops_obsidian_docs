@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Classes/GitHub/Git Advanced.md",
+                "file": "GitHub/Personal Access Token.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps Classes/GitHub/Git Advanced.md",
+                "file": "GitHub/Personal Access Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps Classes/GitHub/Git Advanced.md",
+                "file": "GitHub/Personal Access Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps Classes/GitHub/Git Advanced.md"
+                "file": "GitHub/Personal Access Token.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba3e91b1cd05be91",
+  "active": "4e176470b8a88346",
   "lastOpenFiles": [
+    "DevOps Classes/GitHub/Git Advanced.md",
+    "GitHub/Personal Access Token.md",
     "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
     "DevOps Classes/Deployment Strategies/Implementation of Blue-Green Deployment.md",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
@@ -156,7 +158,6 @@
     "DevOps Classes/Deployment Strategies/images/Screenshot (109).png",
     "DevOps Classes/Deployment Strategies/images",
     "Untitled.canvas",
-    "DevOps Classes/GitHub/Git Advanced.md",
     "DevOps Classes/Deployment Strategies",
     "DevOps Classes/Implementation of Deployment Strategies(Blue-Green Deployment).md",
     "DevOps Classes/GitHub",
@@ -164,7 +165,6 @@
     "Personal Tips",
     "Docker/Creation of a Dockerfile.md",
     "Docker/To run this two-tier application using Docker Network.md",
-    "GitHub/Personal Access Token.md",
     "Jenkins/Steps for CICD Pipeline.md",
     "Jenkins/Jenkins Installation Steps.md",
     "Jenkins/CICD Pipeline.md",
