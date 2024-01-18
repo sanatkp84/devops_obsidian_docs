@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Classes/GitHub/Git Advanced.md",
+                "file": "DevOps Classes/Terraform/HandsOn.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "282904d261a07039",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps Classes/GitHub/Git Advanced.md",
+                "file": "DevOps Classes/Terraform/HandsOn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps Classes/GitHub/Git Advanced.md",
+                "file": "DevOps Classes/Terraform/HandsOn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps Classes/GitHub/Git Advanced.md"
+                "file": "DevOps Classes/Terraform/HandsOn.md"
               }
             }
           }
@@ -148,8 +148,22 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
-    "GitHub/Personal Access Token.md",
+    "DevOps Classes/Terraform/HCL(Hashicorp Configuration Language).md",
+    "DevOps Classes/Terraform/HandsOn.md",
+    "Docker/Creation of a Dockerfile.md",
+    "DevOps Classes/Kubernetes/Kubernetes Deployment.md",
+    "DevOps Classes/Terraform",
+    "DevOps Classes/Kubernetes/Kubernetes Classes.md",
+    "GitHub/Webhook.md",
+    "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
+    "Jenkins/CICD Pipeline.md",
+    "Docker/To run this two-tier application using Docker Network.md",
+    "DevOps Classes/Kubernetes",
     "DevOps Classes/GitHub/Git Advanced.md",
+    "Jenkins/Steps for CICD Pipeline.md",
+    "Jenkins/Jenkins File (Groovy Script).md",
+    "Jenkins/Jenkins Installation Steps.md",
+    "GitHub/Personal Access Token.md",
     "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
     "DevOps Classes/Deployment Strategies/Implementation of Blue-Green Deployment.md",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
@@ -163,13 +177,6 @@
     "DevOps Classes/GitHub",
     "Personal Tips/Tips.md",
     "Personal Tips",
-    "Docker/Creation of a Dockerfile.md",
-    "Docker/To run this two-tier application using Docker Network.md",
-    "Jenkins/Steps for CICD Pipeline.md",
-    "Jenkins/Jenkins Installation Steps.md",
-    "Jenkins/CICD Pipeline.md",
-    "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
-    "GitHub/Webhook.md",
     "Untitled.md",
     "DevOps Classes/CICD",
     "DevOps Classes/Untitled.canvas",
@@ -182,8 +189,6 @@
     "Jenkins",
     "K8S/To run this two-tier application using Docker Network (Without Docker-compose).md",
     "K8S/Untitled",
-    "Docker",
-    "K8S",
     "Pasted image 20231123202108.png"
   ]
 }

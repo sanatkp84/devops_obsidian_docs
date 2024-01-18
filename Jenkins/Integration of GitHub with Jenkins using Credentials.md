@@ -12,10 +12,13 @@ It will show you the directory where the keys are available.
 Step - 4 : Go to " .ssh " directory
 ```
 cd .ssh
-``` &
-```ls```
-id_rsa (private)
-id_rsa.pub (public)
+``` 
+```
+ls
+```
+
+- id_rsa (private)
+- id_rsa.pub (public)
 ###### We can see the keys by using cat command. (both public and private)
 
 ###### Step - 5 : Go to GitHub > Settings > SSH and GPG Keys > Give the public key as ssh key.

@@ -1,0 +1,10 @@
+- Smallest unit of k8s - pod
+- k8s is running CRI(Container run time interface) in the background
+- CRI internally call "container-d"
+- docker also use container-d internally
+- you can run multiple containers inside the pod, you can add environments also
+- you can scale the pod but not the containers
+- pods are running inside the cluster. they dnt have access of outside world. so anyone if wants to access the deployment, then he can access it with the help of service proxy
+- #### Persistent Volume
+- #### Persistent Volume claim
+- 
