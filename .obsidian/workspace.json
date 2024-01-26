@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Classes/Terraform/HandsOn.md",
+                "file": "DevOps Classes/Ansible/Ansible Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps Classes/Terraform/HandsOn.md",
+                "file": "DevOps Classes/Ansible/Ansible Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps Classes/Terraform/HandsOn.md",
+                "file": "DevOps Classes/Ansible/Ansible Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps Classes/Terraform/HandsOn.md"
+                "file": "DevOps Classes/Ansible/Ansible Commands.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
-    "DevOps Classes/Terraform/HCL(Hashicorp Configuration Language).md",
     "DevOps Classes/Terraform/HandsOn.md",
+    "DevOps Classes/Ansible/Ansible Commands.md",
+    "DevOps Classes/Ansible",
+    "DevOps Classes/Terraform/HCL(Hashicorp Configuration Language).md",
     "Docker/Creation of a Dockerfile.md",
     "DevOps Classes/Kubernetes/Kubernetes Deployment.md",
     "DevOps Classes/Terraform",
@@ -188,7 +190,6 @@
     "K8S/Helm Setup & Steps.md",
     "Jenkins",
     "K8S/To run this two-tier application using Docker Network (Without Docker-compose).md",
-    "K8S/Untitled",
     "Pasted image 20231123202108.png"
   ]
 }
