@@ -148,8 +148,9 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
-    "DevOps Classes/Terraform/HandsOn.md",
+    "DevOps Classes/Ansible/Install Ansible.md",
     "DevOps Classes/Ansible/Ansible Commands.md",
+    "DevOps Classes/Terraform/HandsOn.md",
     "DevOps Classes/Ansible",
     "DevOps Classes/Terraform/HCL(Hashicorp Configuration Language).md",
     "Docker/Creation of a Dockerfile.md",
@@ -189,7 +190,6 @@
     "markdown-cheat-sheet.md",
     "K8S/Helm Setup & Steps.md",
     "Jenkins",
-    "K8S/To run this two-tier application using Docker Network (Without Docker-compose).md",
     "Pasted image 20231123202108.png"
   ]
 }
