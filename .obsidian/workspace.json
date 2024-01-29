@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Classes/Ansible/Ansible Commands.md",
+                "file": "DevOps Classes/Monitoring/Observability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps Classes/Ansible/Ansible Commands.md",
+                "file": "DevOps Classes/Monitoring/Observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps Classes/Ansible/Ansible Commands.md",
+                "file": "DevOps Classes/Monitoring/Observability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps Classes/Ansible/Ansible Commands.md"
+                "file": "DevOps Classes/Monitoring/Observability.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
-    "DevOps Classes/Ansible/Install Ansible.md",
     "DevOps Classes/Ansible/Ansible Commands.md",
+    "DevOps Classes/Monitoring/Observability.md",
+    "DevOps Classes/Monitoring",
+    "DevOps Classes/Ansible/Install Ansible.md",
     "DevOps Classes/Terraform/HandsOn.md",
     "DevOps Classes/Ansible",
     "DevOps Classes/Terraform/HCL(Hashicorp Configuration Language).md",
@@ -188,8 +190,6 @@
     "K8S/Setup Kubeadm.md",
     "Jenkins/What is Webhook.md",
     "markdown-cheat-sheet.md",
-    "K8S/Helm Setup & Steps.md",
-    "Jenkins",
     "Pasted image 20231123202108.png"
   ]
 }
