@@ -148,10 +148,12 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
+    "DevOps Classes/Ansible/Install Ansible.md",
+    "YouTube/Ansible.md",
+    "YouTube",
     "DevOps Classes/Ansible/Ansible Commands.md",
     "DevOps Classes/Monitoring/Observability.md",
     "DevOps Classes/Monitoring",
-    "DevOps Classes/Ansible/Install Ansible.md",
     "DevOps Classes/Terraform/HandsOn.md",
     "DevOps Classes/Ansible",
     "DevOps Classes/Terraform/HCL(Hashicorp Configuration Language).md",
@@ -185,11 +187,9 @@
     "Untitled.md",
     "DevOps Classes/CICD",
     "DevOps Classes/Untitled.canvas",
-    "DevOps Classes",
     "Untitled 1.md",
     "K8S/Setup Kubeadm.md",
     "Jenkins/What is Webhook.md",
-    "markdown-cheat-sheet.md",
     "Pasted image 20231123202108.png"
   ]
 }
