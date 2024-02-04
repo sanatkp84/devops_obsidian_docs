@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Classes/Monitoring/Observability.md",
+                "file": "SQL/NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps Classes/Monitoring/Observability.md",
+                "file": "SQL/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps Classes/Monitoring/Observability.md",
+                "file": "SQL/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps Classes/Monitoring/Observability.md"
+                "file": "SQL/NOTES.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
+    "DevOps/GitHub/Personal Access Token.md",
+    "SQL/NOTES.md",
+    "SQL",
+    "Personal Tips/Tips.md",
+    "DevOps/Jenkins/Jenkins File (Groovy Script).md",
+    "DevOps/Jenkins/Integration of GitHub with Jenkins using Credentials.md",
+    "DevOps/Jenkins/CICD Pipeline.md",
+    "DevOps/GitHub/Webhook.md",
+    "DevOps/Docker/To run this two-tier application using Docker Network.md",
+    "DevOps/Docker/Creation of a Dockerfile.md",
     "DevOps Classes/Ansible/Install Ansible.md",
     "YouTube/Ansible.md",
     "YouTube",
@@ -170,9 +180,6 @@
     "Jenkins/Steps for CICD Pipeline.md",
     "Jenkins/Jenkins File (Groovy Script).md",
     "Jenkins/Jenkins Installation Steps.md",
-    "GitHub/Personal Access Token.md",
-    "DevOps Classes/CICD/Continuous Integration & Continuous Deployment.md",
-    "DevOps Classes/Deployment Strategies/Implementation of Blue-Green Deployment.md",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
     "DevOps Classes/Deployment Strategies/images/Screenshot (107).png",
@@ -180,16 +187,9 @@
     "DevOps Classes/Deployment Strategies/images",
     "Untitled.canvas",
     "DevOps Classes/Deployment Strategies",
-    "DevOps Classes/Implementation of Deployment Strategies(Blue-Green Deployment).md",
     "DevOps Classes/GitHub",
-    "Personal Tips/Tips.md",
     "Personal Tips",
-    "Untitled.md",
-    "DevOps Classes/CICD",
     "DevOps Classes/Untitled.canvas",
-    "Untitled 1.md",
-    "K8S/Setup Kubeadm.md",
-    "Jenkins/What is Webhook.md",
     "Pasted image 20231123202108.png"
   ]
 }
