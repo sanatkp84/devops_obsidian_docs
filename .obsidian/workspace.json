@@ -11,12 +11,8 @@
             "id": "4e176470b8a88346",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/NOTES.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL/NOTES.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,10 @@
   },
   "active": "4e176470b8a88346",
   "lastOpenFiles": [
-    "DevOps/GitHub/Personal Access Token.md",
     "SQL/NOTES.md",
+    "sanatkp84/Untitled.md",
+    "sanatkp84",
+    "DevOps/GitHub/Personal Access Token.md",
     "SQL",
     "Personal Tips/Tips.md",
     "DevOps/Jenkins/Jenkins File (Groovy Script).md",
@@ -179,7 +173,6 @@
     "DevOps Classes/GitHub/Git Advanced.md",
     "Jenkins/Steps for CICD Pipeline.md",
     "Jenkins/Jenkins File (Groovy Script).md",
-    "Jenkins/Jenkins Installation Steps.md",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
     "DevOps Classes/Deployment Strategies/images/Screenshot (107).png",
@@ -188,7 +181,6 @@
     "Untitled.canvas",
     "DevOps Classes/Deployment Strategies",
     "DevOps Classes/GitHub",
-    "Personal Tips",
     "DevOps Classes/Untitled.canvas",
     "Pasted image 20231123202108.png"
   ]
