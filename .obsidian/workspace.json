@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack/CSS.md",
+                "file": "DevOps/Encrypt & Decrypt Password.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack/CSS.md",
+                "file": "DevOps/Encrypt & Decrypt Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack/CSS.md",
+                "file": "DevOps/Encrypt & Decrypt Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack/CSS.md"
+                "file": "DevOps/Encrypt & Decrypt Password.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "d121c2d55250e4cd",
   "lastOpenFiles": [
-    "Full Stack/HTML/Notes.md",
+    "THREE TIER REQ/Requirements.md",
+    "DevOps/Encrypt & Decrypt Password.md",
     "Full Stack/CSS.md",
+    "THREE TIER REQ",
+    "Full Stack/HTML/Notes.md",
     "story/STORY.md",
     "DevOps/DevOps Classes/Monitoring/Observability.md",
     "story",
@@ -194,9 +197,6 @@
     "DevOps Classes/Kubernetes/Kubernetes Deployment.md",
     "DevOps Classes/Terraform",
     "DevOps Classes/Kubernetes/Kubernetes Classes.md",
-    "GitHub/Webhook.md",
-    "Jenkins/Integration of GitHub with Jenkins using Credentials.md",
-    "DevOps Classes/Kubernetes",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
     "DevOps Classes/Deployment Strategies/images/Screenshot (107).png",
