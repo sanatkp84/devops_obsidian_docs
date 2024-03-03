@@ -1,0 +1,21 @@
+- plus 2 science bio
+- overwhelm btech market....decided to do bsc
+- but then decided todo btech
+- from 2020 ..... 1st 2 years youtube----unsuccessful
+- 3rd year ..... 2023  feb intrst in cloud computing then in march annual fest anchoring
+- so 1 month wasted. then i am not like a guy who can ignore study.... so i hv to study my clg subs
+- I thought i will do devops as well as java dsa completely in summer vacation...
+- but my nani got sick and expired... so may ka mahina to ese hi chala gya
+- bachpan se unke paas tha me...very close to her.... uss sadme se nikalke kuch productive krne keliye 2-3 mahina lag gya....uske andar 6th sem bhi hogya aur ek sem humara lagbhag 15 days chalta h...
+- then allahbad jake nani ka asti bisarjan
+- then tcs nqt exam tha 
+- finally mene course lia 16th sep....ap grafana suru krrhe the mtlb end horha tha
+- chahta to batch 5 keliye wait kr sakta tha but i thought late ho jaega..
+- uss time pe me har din ek ek video dekhta tha with handson practice.... sunday ko free chodta tha
+- 1 se 1.5 months me khtm krlia
+- then december me 7th sem ka exam
+- then got a freelancing work
+- then got command in devops
+- then in feb i got the job
+- offcampus 100+ comapnies
+- deloitte intrvw exp

@@ -1,0 +1,3 @@
+- It is used to describe the style of a document
+- For responsive web pages we should not use `px` because this is a fixed/absolute unit. (We can use relative units)
+- 
