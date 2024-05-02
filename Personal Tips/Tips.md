@@ -1,1 +1,0 @@
-Jobalytics for resume

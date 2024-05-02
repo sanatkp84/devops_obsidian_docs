@@ -1,7 +1,0 @@
-- In anchor tag `href` means hyper text reference / or link.
-- HTML is not case sensitive. You can use capital letters in tag.
-- heading, paragraph, body tags are block elements
-- anchor & image tags are inline element
-- div element means : Content Division Element (block element)
-- hr tag means horizontal rule element
-- `aside` is used to link indirectly related content

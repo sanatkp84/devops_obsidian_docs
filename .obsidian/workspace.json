@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e176470b8a88346",
+            "id": "9edab9a87e4bfb7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack/HTML/Notes.md",
-                "mode": "source",
+                "file": "DevOps/Jenkins/Steps for CICD Pipeline.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "d121c2d55250e4cd",
+            "id": "806cb21a4811f16b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Encrypt & Decrypt Password.md",
+                "file": "Web Development/Javascript/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Encrypt & Decrypt Password.md",
+                "file": "Web Development/Javascript/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Encrypt & Decrypt Password.md",
+                "file": "Web Development/Javascript/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Encrypt & Decrypt Password.md"
+                "file": "Web Development/Javascript/Introduction.md"
               }
             }
           }
@@ -159,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d121c2d55250e4cd",
+  "active": "806cb21a4811f16b",
   "lastOpenFiles": [
-    "THREE TIER REQ/Requirements.md",
-    "DevOps/Encrypt & Decrypt Password.md",
-    "Full Stack/CSS.md",
-    "THREE TIER REQ",
-    "Full Stack/HTML/Notes.md",
-    "story/STORY.md",
-    "DevOps/DevOps Classes/Monitoring/Observability.md",
-    "story",
-    "DevOps/DevOps Classes/Terraform/HandsOn.md",
+    "markdown-cheat-sheet.md",
+    "Web Development/Javascript/Introduction.md",
+    "Web Development/Javascript",
+    "Web Development/Untitled.md",
+    "Synopsis.md",
     "SQL/NOTES.md",
-    "Full Stack/HTML",
-    "Full Stack",
-    "sanatkp84/Untitled.md",
-    "sanatkp84",
-    "DevOps/GitHub/Personal Access Token.md",
-    "SQL",
+    "Access key.md",
+    "DevOps/K8S/Setup Kubeadm.md",
     "Personal Tips/Tips.md",
+    "Web Development",
+    "Full Stack/CSS.md",
+    "Full Stack/HTML/Notes.md",
+    "DevOps/Jenkins/Steps for CICD Pipeline.md",
+    "DevOps/Jenkins/Jenkins Installation Steps.md",
+    "DevOps/K8S/Kubeadm Install/Kubeadm setup.md",
+    "DevOps/K8S/Kubeadm Install",
     "DevOps/Jenkins/Jenkins File (Groovy Script).md",
     "DevOps/Jenkins/Integration of GitHub with Jenkins using Credentials.md",
     "DevOps/Jenkins/CICD Pipeline.md",
-    "DevOps/GitHub/Webhook.md",
-    "DevOps/Docker/To run this two-tier application using Docker Network.md",
+    "DevOps/Encrypt & Decrypt Password.md",
     "DevOps/Docker/Creation of a Dockerfile.md",
-    "DevOps Classes/Ansible/Install Ansible.md",
-    "YouTube/Ansible.md",
-    "YouTube",
-    "DevOps Classes/Ansible/Ansible Commands.md",
-    "DevOps Classes/Monitoring/Observability.md",
-    "DevOps Classes/Monitoring",
-    "DevOps Classes/Terraform/HandsOn.md",
-    "DevOps Classes/Ansible",
-    "DevOps Classes/Terraform/HCL(Hashicorp Configuration Language).md",
-    "Docker/Creation of a Dockerfile.md",
-    "DevOps Classes/Kubernetes/Kubernetes Deployment.md",
-    "DevOps Classes/Terraform",
-    "DevOps Classes/Kubernetes/Kubernetes Classes.md",
+    "THREE TIER REQ/Requirements.md",
+    "Do.md",
+    "Q T ASK/Qns.md",
+    "Q T ASK",
+    "Hours Counting of Content Calendar Plan.md",
+    "TWS Analysis.md",
+    "EDITING FREELANCE/Counting.md",
+    "DevOps/Docker/To run this two-tier application using Docker Network.md",
+    "DevOps/GitHub/Personal Access Token.md",
+    "EDITING FREELANCE",
+    "THREE TIER REQ",
+    "Video",
+    "Full Stack/HTML",
+    "Full Stack",
+    "sanatkp84",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
     "DevOps Classes/Deployment Strategies/images/Screenshot (107).png",
