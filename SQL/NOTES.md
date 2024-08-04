@@ -1,3 +1,28 @@
+### Create Table
+```
+CREATE TABLE table_name(
+	column_name1 datatype constraint,
+	column_name2 datatype constraint,
+	column_name3 datatype constraint,
+);
+```
+
+### Insert Values into Table
+```
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
 ### General Order of Writing SQL commands
 
 ```
@@ -25,4 +50,9 @@ SET SQL_SAFE_UPDATES=0;
 ```
 SET SQL_SAFE_UPDATES=1;
 ```
+
+### SQL vs NoSQL
+
+- SQL is a relational database that means in this database data stored in tables. And tables ae relatable to each other you can say there are relations between the tables. ex- mysql, PostgreSQL, Oracle.
+- Non relational Database (data stored in document/key-value pair/graphs etc). ex- MongoDB, Cassandra, Neo4j etc.
 

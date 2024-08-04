@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/Introduction.md",
+                "file": "SQL/NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/Introduction.md",
+                "file": "SQL/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/Introduction.md",
+                "file": "SQL/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/Introduction.md"
+                "file": "SQL/NOTES.md"
               }
             }
           }
@@ -161,12 +161,21 @@
   },
   "active": "806cb21a4811f16b",
   "lastOpenFiles": [
-    "markdown-cheat-sheet.md",
     "Web Development/Javascript/Introduction.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "SQL/NOTES.md",
+    "DevOps/GitHub/Personal Access Token.md",
+    "2024-08-03.md",
+    "Notes.md",
+    "Javascript/index.js",
+    "Javascript/index.html",
+    "Javascript",
+    "New folder",
+    "markdown-cheat-sheet.md",
     "Web Development/Javascript",
     "Web Development/Untitled.md",
     "Synopsis.md",
-    "SQL/NOTES.md",
     "Access key.md",
     "DevOps/K8S/Setup Kubeadm.md",
     "Personal Tips/Tips.md",
@@ -186,22 +195,12 @@
     "Do.md",
     "Q T ASK/Qns.md",
     "Q T ASK",
-    "Hours Counting of Content Calendar Plan.md",
-    "TWS Analysis.md",
-    "EDITING FREELANCE/Counting.md",
-    "DevOps/Docker/To run this two-tier application using Docker Network.md",
-    "DevOps/GitHub/Personal Access Token.md",
     "EDITING FREELANCE",
     "THREE TIER REQ",
-    "Video",
-    "Full Stack/HTML",
-    "Full Stack",
-    "sanatkp84",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
     "DevOps Classes/Deployment Strategies/images/Screenshot (107).png",
     "DevOps Classes/Deployment Strategies/images/Screenshot (109).png",
-    "Untitled.canvas",
     "DevOps Classes/Untitled.canvas",
     "Pasted image 20231123202108.png"
   ]
