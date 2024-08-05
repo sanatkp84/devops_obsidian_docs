@@ -3,25 +3,54 @@
 CREATE TABLE table_name(
 	column_name1 datatype constraint,
 	column_name2 datatype constraint,
-	column_name3 datatype constraint,
+	column_name3 datatype constraint
 );
 ```
 
 ### Insert Values into Table
 ```
-
+INSERT INTO table_name (column_name1,column_name2)
+VALUES (col1_content1,col2_cotent1), (col1_content2,col2_cotent2);
 ```
 
+### Select Command
 
+```
+SELECT * FROM table_name; (* means all)
 
+SELECT col_1,col_2 FROM table_name;
 
+SELECT DISTINCT age FROM table_name; (Selects only the unique age values)
+```
 
+### Constraints
 
+- NOT NULL : columns can't have null value
+- UNIQUE : all values in the column are different
+- DEFAULT : sets a default value for the column
+- CHECK : It can limit the values allowed in a column
 
+### Key Constraints
 
+##### Primary Key : makes a column unique & not null but used only for one
+```
+CREATE TABLE client(
+	id INT,
+	PRIMARY KEY (id)
+);
+```
+- It is a column that uniquely identifies each row. it is only 1 and should not be null.
+##### Foreign Key : Prevent actions that would destroy link between tables
+```
+CREATE TABLE client(
+	customer_id INT,
+	FOREIGN KEY (customer_id) REFERENCES customer (id)
+);
+```
 
-
-
+- FKs can have duplicate and null values
+- There can be multiple FKs.
+ - Here client and customer are two tables & id column of customer table is the foreign key of client table. (foreign key is the "customer_id" in client table.
 
 ### General Order of Writing SQL commands
 
