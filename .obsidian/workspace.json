@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/NOTES.md",
+                "file": "Web Development/Javascript/String Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/NOTES.md",
+                "file": "Web Development/Javascript/String Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/NOTES.md",
+                "file": "Web Development/Javascript/String Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/NOTES.md"
+                "file": "Web Development/Javascript/String Methods.md"
               }
             }
           }
@@ -161,14 +161,19 @@
   },
   "active": "806cb21a4811f16b",
   "lastOpenFiles": [
-    "DevOps/Jenkins/Steps for CICD Pipeline.md",
-    "SQL/NOTES.md",
     "markdown-cheat-sheet.md",
-    "Notes.md",
+    "Web Development/Javascript/String Methods.md",
     "Web Development/Javascript/Introduction.md",
+    "Web Development/Javascript",
+    "Web Development/Javascript/Methods/Untitled.md",
+    "Web Development/Javascript/Methods",
+    "DevOps/GitHub/Webhook.md",
+    "DevOps/GitHub/Personal Access Token.md",
+    "SQL/NOTES.md",
+    "DevOps/Jenkins/Steps for CICD Pipeline.md",
+    "Notes.md",
     "Untitled.canvas",
     "Untitled.md",
-    "DevOps/GitHub/Personal Access Token.md",
     "2024-08-03.md",
     "Javascript/index.js",
     "Javascript/index.html",
@@ -192,11 +197,7 @@
     "DevOps/Encrypt & Decrypt Password.md",
     "DevOps/Docker/Creation of a Dockerfile.md",
     "THREE TIER REQ/Requirements.md",
-    "Do.md",
-    "Q T ASK/Qns.md",
     "Q T ASK",
-    "EDITING FREELANCE",
-    "THREE TIER REQ",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
     "DevOps Classes/Deployment Strategies/images/Screenshot (107).png",
