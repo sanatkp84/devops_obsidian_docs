@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/String Methods.md",
+                "file": "Web Development/Javascript/Array (Data Structure).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Javascript/String Methods.md",
+                "file": "Web Development/Javascript/Array (Data Structure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Javascript/String Methods.md",
+                "file": "Web Development/Javascript/Array (Data Structure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Javascript/String Methods.md"
+                "file": "Web Development/Javascript/Array (Data Structure).md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "806cb21a4811f16b",
   "lastOpenFiles": [
-    "markdown-cheat-sheet.md",
     "Web Development/Javascript/String Methods.md",
+    "Web Development/Javascript/Array (Data Structure).md",
+    "markdown-cheat-sheet.md",
     "Web Development/Javascript/Introduction.md",
     "Web Development/Javascript",
     "Web Development/Javascript/Methods/Untitled.md",
@@ -196,7 +197,6 @@
     "DevOps/Jenkins/CICD Pipeline.md",
     "DevOps/Encrypt & Decrypt Password.md",
     "DevOps/Docker/Creation of a Dockerfile.md",
-    "THREE TIER REQ/Requirements.md",
     "Q T ASK",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
