@@ -68,3 +68,49 @@ cars
 cars.shift();
 > 'maruti'
 ```
+
+- indexOf : returns index of something
+- includes : search for a value
+- concat : merge 2 arrays
+- reverse : reverse an array
+
+```
+# Concatenation
+
+let pri = ["sanat","red","shyam"]
+let sec = [45,"vast","course"]
+
+pri
+> (3) ['sanat', 'red', 'shyam']
+sec
+> (3) [45, 'vast', 'course']
+
+pri.concat(sec)
+> (6) ['sanat', 'red', 'shyam', 45, 'vast', 'course']
+```
+
+##### NOTE : Concat doesn't do changes in original array but reverse function do in original array
+
+- slice : copies a portion of an array
+- splice : removes/replaces/add elements in place
+
+```
+# Splice  (It changes the original array)
+# Syntax : splice(start, deleteCount, item0....itemN)
+
+let colors = ["red","yellow","blue","orange","pink","white"];
+
+colors
+> (6) ['red', 'yellow', 'blue', 'orange', 'pink', 'white']
+colors.splice(4);
+> (2) ['pink', 'white']
+colors.splice(0,1);
+> ['red']
+colors
+> (3) ['yellow', 'blue', 'orange']
+colors.splice(0,1,"black","grey");
+> ['yellow']
+colors
+> (4) ['black', 'grey', 'blue', 'orange']
+
+```
