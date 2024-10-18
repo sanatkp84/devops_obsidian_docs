@@ -114,3 +114,42 @@ colors
 > (4) ['black', 'grey', 'blue', 'orange']
 
 ```
+-----------------------------
+
+# Array References
+
+- Reference means address in memory
+```
+[2] == [2]    //false
+[] == []      //false
+
+Here the output is false because it is comparing the address of both arrays.
+And every time we create a new array, memory provides a separate to that array
+
+```
+
+- when we create an array and give it a variable name, that variable is called reference variable.
+- Reference variable knows the exact address of the array element in the memory.
+---------------------
+## Constant Arrays
+
+```
+const arr = [1,2,3];
+arr        // [1,2,3]
+
+arr.push(6);
+arr        // [1,2,3,6]
+
+# We used 'const' for the constant array and here we can manipulate the constant array but in case of constant variable it is not possible to change the value of that variable.
+
+# But the twist is we can't create a complete new array that means we can't change the complete array elements. We can just edit it.
+
+# const array means arr store the constant address. it doesn't store the values of that array
+```
+---------
+## Nested Arrays
+
+- Multi dimensional array
+```
+let nums = [[2,4],[3,6],[4,8]];
+```
