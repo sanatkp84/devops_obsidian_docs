@@ -33,7 +33,7 @@ for(let i=1; i<=10; i++){
     console.log(i*n);
 }
 ```
-
+---------------------------------
 - Nested for loop
 ```
 for (let i=1; i<=3; i++){
@@ -91,4 +91,56 @@ if(guess == favmovie){
 }else{
     console.log("Game Ended");
 }
+```
+-------------------------
+### Loops with Arrays
+
+```
+let fruits = ["mango","banana","apple","litchi","orange"];
+
+for(let i=0; i<fruits.length; i++){
+	console.log(i, fruits[i]);
+}
+```
+- For even number fruits
+```
+let fruits = ["mango","banana","apple","litchi","orange"];
+
+for(let i=0; i<fruits.length; i=i+2){
+	console.log(i, fruits[i]);
+}
+```
+- Reverse the array
+```
+let fruits = ["mango","banana","apple","litchi","orange"];
+
+for(let i=fruits.length-1; i>=0; i--){
+    console.log(i, fruits[i]);
+}
+```
+-----------
+### Nested Loops with Nested Arrays
+
+```
+let heroes = [
+    ["ironman","spiderman","thor"],
+    ["superman","wonder woman","flash"]
+]
+
+for (let i=0; i<heroes.length; i++){
+    console.log(i, heroes[i]);
+    for(let j=0; j<heroes[i].length; j++){
+        console.log(`j=${j}, ${heroes[i][j]}`);
+    }
+}
+
+Output:
+0 (3) ['ironman', 'spiderman', 'thor']
+ j=0, ironman
+ j=1, spiderman
+ j=2, thor
+ 1 (3) ['superman', 'wonder woman', 'flash']
+ j=0, superman
+ j=1, wonder woman
+ j=2, flash
 ```
