@@ -139,8 +139,57 @@ Output:
  j=0, ironman
  j=1, spiderman
  j=2, thor
+ 
  1 (3) ['superman', 'wonder woman', 'flash']
  j=0, superman
  j=1, wonder woman
  j=2, flash
+```
+-----------
+### For of Loop
+
+```
+let fruits = ["mango","banana","apple","litchi","orange"];
+
+for(fruit of fruits){
+    console.log(fruit);
+}
+```
+
+# ToDo App
+
+```
+let todo = [];          //Created empty array to store tasks
+
+let request = prompt("Please Enter Your request");
+
+while(true){
+    if(request == "quit"){
+        console.log("Quitting app");
+        break;
+    }
+    
+    if(request == "list"){
+        console.log("________");
+        for (let i=0; i<todo.length; i++){
+            console.log(i, todo[i]);
+        }
+        console.log("________");
+        
+    } else if(request == "add"){
+        let task = prompt("Enter Your Pending Task");
+        todo.push(task);
+        console.log("task added");
+
+    } else if(request == "delete"){
+        let idx = prompt("please enter the task index");
+        todo.splice(idx, 1);
+        console.log("task deleted");
+
+    } else {
+        console.log("wrong request");
+    }
+
+    request = prompt("Please Enter Your request");
+}
 ```
