@@ -124,5 +124,24 @@ let random = Math.floor(Math.random() * 5)+21;        //20,21,22,23,24,25
 ----------------
 ### Guessing Game
 ```
+const max = prompt("enter your maximum number limit");
 
+const random = Math.floor(Math.random()*max)+1;
+
+let guess = prompt("Enter your Guess Number");
+
+  
+while(true){
+    if(guess == "exit"){
+        console.log("User Quit");
+        break;
+    }
+
+    if(guess == random){
+        console.log("Congrats!!! You are absolutely Right");
+        break;
+    }else{
+        guess = prompt("Your Guess is Wrong! Try Again");
+    }
+}
 ```
