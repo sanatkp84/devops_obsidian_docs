@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/Object Literals.md",
+                "file": "Web Development/Javascript/Functions in JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object Literals"
+              "title": "Functions in JS"
             }
           }
         ],
@@ -179,10 +179,11 @@
   },
   "active": "806cb21a4811f16b",
   "lastOpenFiles": [
-    "Web Development/Javascript/images/Pasted image 20241023221243.png",
-    "Web Development/Javascript/images",
     "Web Development/Javascript/Array (Data Structure).md",
+    "Web Development/Javascript/Functions in JS.md",
+    "Web Development/Javascript/images/Pasted image 20241023221243.png",
     "Web Development/Javascript/Object Literals.md",
+    "Web Development/Javascript/images",
     "Web Development/Javascript/Loops.md",
     "Web Development/Javascript/String Methods.md",
     "1st video.md",
