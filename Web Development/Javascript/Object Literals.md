@@ -50,14 +50,6 @@ post[share];
 > student
 <> 1. {name: 'sanat', age: '21', marks: 94.4, city: 'pune', interest: Array(3), …}
 
-1. age: "21"
-2. city: "pune"
-3. gender: "Male"
-4. interest: (3) ['youtube', 'insta', 'linkedin']
-5. marks: 94.4
-6. name: "sanat"
-7. [[Prototype]]: Object
-
 > delete student.marks;
 <> true
 
@@ -93,4 +85,44 @@ const classInfo = {
 	
 > classInfo.sanat
 <> {grade: 'B', City: 'Pune'}
+```
+-------------
+### Math Object
+
+```
+# METHODS
+
+Math.abs(n);
+Math.pow(a,b);
+Math.floor(n);
+Math.ceil(n);
+Math.random();
+```
+---------------
+### Random Integers
+```
+# Creation of random integers Range from 1 to 10
+
+Step 1 : let num = Math.random();
+
+Step 2 : num = num * 10;
+
+Step 3 : num = Math.floor(num);
+
+Step 4 : num = num + 1;
+```
+
+```
+let random = Math.floor(Math.random() * 10)+1;
+```
+
+```
+# Range from 20 - 25
+
+let random = Math.floor(Math.random() * 5)+21;        //20,21,22,23,24,25
+```
+----------------
+### Guessing Game
+```
+
 ```
