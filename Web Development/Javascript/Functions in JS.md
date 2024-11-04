@@ -92,5 +92,34 @@ calSum(1,2);
 
 - We can't use the function scope sum outside the function. But if the function hasn't its own sum variable, then it can use the global sum variable and returns the value of global sum variable
 - WE CAN CHECK IT BY COMMENTING OUT `let sum = a+b;` STATEMENT FROM ABOVE CODE.
-- 
+###### Block Scope : Variables declared inside a { } block cannot be accessed from outside the block.
+```
+for (let i=1; i<=5; i++){
+	console.log(i);            //1 2 3 4 5
+}
 
+console.log(i);                // Error:Undefined
+```
+
+###### Lexical Scope : A variable defined outside a function can be accessible inside another function defined after the variable declaration. (THE OPPOSITE IS NOT TRUE).
+```
+function outerf() {
+	let x=5;
+	let y=7;
+	function innerf() {
+		console.log(x);     //5
+	}
+	innerf();
+}
+```
+
+### Function Expressions
+```
+const sum = function(a,b) {
+	return a + b;
+}
+
+sum(2,3);
+```
+- Here we store "function" as a value inside the variable. 
+- We can call the function by using the function name, which is a variable
