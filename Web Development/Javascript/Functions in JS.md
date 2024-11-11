@@ -123,3 +123,22 @@ sum(2,3);
 ```
 - Here we store "function" as a value inside the variable. 
 - We can call the function by using the function name, which is a variable
+--------------------
+### Higher Order Functions
+
+A function that does one or both :
+- takes one or multiple functions as arguments
+- returns a function
+```
+function multipleGreet(func,count) {  //multipleGreet : Higher order function
+	for(let i=1; i<=count; i++) {
+		func();
+	}
+}
+
+let greet = function() {
+	console.log("hello");
+}
+
+multipleGreet(greet,100);
+```
