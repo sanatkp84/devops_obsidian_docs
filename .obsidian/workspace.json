@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/this, try & catch.md",
+                "file": "Web Development/Javascript/try & catch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "this, try & catch"
+              "title": "try & catch"
             }
           }
         ],
@@ -193,10 +193,12 @@
   },
   "active": "adb482ad0a7580fa",
   "lastOpenFiles": [
-    "Web Development/Javascript/Array (Data Structure).md",
-    "Web Development/Javascript/this, try & catch.md",
-    "Web Development/Javascript/String Methods.md",
+    "Web Development/Javascript/this Keyword.md",
+    "Web Development/Javascript/try & catch.md",
+    "Web Development/Javascript/Miscellaneous Topics.md",
     "Web Development/Javascript/Loops.md",
+    "Web Development/Javascript/Array (Data Structure).md",
+    "Web Development/Javascript/String Methods.md",
     "JAVA.md",
     "Web Development/Javascript/Functions in JS.md",
     "Web Development/Javascript/Object Literals.md",
@@ -228,8 +230,6 @@
     "Personal Tips/Tips.md",
     "Web Development",
     "Full Stack/CSS.md",
-    "Full Stack/HTML/Notes.md",
-    "DevOps/Jenkins/Jenkins Installation Steps.md",
     "DevOps/K8S/Kubeadm Install",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
