@@ -18,7 +18,4 @@ student.getAvg();               //84.66666
 ```
 - Here the getAvg() can't access the parameters directly with in the object "student". It will show error. So to get access of these parameters with in objects we have to use this keyword.
 ----------------------------
-# try & catch
 
-```
------------------------
