@@ -52,3 +52,22 @@ console.log(id2);
 
 - To stop it use `clearInterval(id);`
 - Then it will stop printing "Sanat Kumar" but it will keep printing "Hello Earth".
+
+# this with Arrow Functions
+
+- In normal Function *scope -> depends on calling Object <- this
+- In arrow Function *Lexical scope -> Here the scope will be the Parent's scope.
+
+# Practice Questions
+
+##### Print Hello World in the interval of 2 seconds for 5 times
+
+```
+let id = setInterval( () => {
+    console.log("Hello World");
+}, 2000);
+
+setTimeout(() => {
+    clearInterval(id);
+},10000);
+```
