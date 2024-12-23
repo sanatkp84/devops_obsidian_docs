@@ -38,7 +38,7 @@ Output will be true
 Output will be false
 ```
 
-### Sum
+### Some
 - Returns true if some element of array gives true for some function. Else returns false.
 ### Reduce
 - Reduces the array to a single value
@@ -48,3 +48,22 @@ Output will be false
 
 Output : 10
 ```
+
+### Find the Minimum Number in an array (Practice Q)
+
+```
+let nums = [10,30,20,40,5];
+
+let min = nums.reduce( (min, el) => {
+	if (min<el){
+		return min;
+	}else {
+		retun el;
+	}
+});
+
+console.log(min);
+```
+
+
+
