@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/Array Methods/Default Parameters.md",
+                "file": "Web Development/Javascript/Array Methods/Destructuring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Default Parameters"
+              "title": "Destructuring"
             }
           }
         ],
@@ -207,8 +207,9 @@
   },
   "active": "39ed3b0f043d6ec8",
   "lastOpenFiles": [
+    "Web Development/Javascript/Array Methods/Spread & Rest.md",
+    "Web Development/Javascript/Array Methods/Destructuring.md",
     "Web Development/Javascript/Array Methods/Methods.md",
-    "Web Development/Javascript/Array Methods/Default Parameters.md",
     "Web Development/Javascript/Miscellaneous Topics/Arrow Function.md",
     "Web Development/Javascript/Array Methods",
     "Web Development/Javascript/Important Topics/Functions in JS.md",
@@ -244,7 +245,6 @@
     "New folder",
     "Web Development/Untitled.md",
     "Synopsis.md",
-    "Access key.md",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
     "DevOps Classes/Deployment Strategies/images/Screenshot (107).png",

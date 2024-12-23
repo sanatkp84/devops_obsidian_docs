@@ -65,5 +65,21 @@ let min = nums.reduce( (min, el) => {
 console.log(min);
 ```
 
+### Default Parameter
+
+- Giving a default value to the arguments
+```
+function sum(a,b=2){
+	return sum(a+b);
+}
+
+CONSOLE :
+
+sum(7,8);
+15
+sum(10);
+12
+```
+
 
 
