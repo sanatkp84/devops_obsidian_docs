@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javascript/DOM/DOM (Document Object Model).md",
+                "file": "DevOps/Terraform/Introduction/IAC (Infrastructure as Code).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM (Document Object Model)"
+              "title": "IAC (Infrastructure as Code)"
             }
           }
         ]
@@ -164,8 +164,14 @@
   },
   "active": "39ed3b0f043d6ec8",
   "lastOpenFiles": [
-    "DevOps/Jenkins/Steps for CICD Pipeline.md",
+    "DevOps/Encrypt & Decrypt Password.md",
+    "DevOps/Terraform/Introduction/IAC (Infrastructure as Code).md",
+    "DevOps/Terraform/Introduction",
+    "DevOps/DevOps Classes/Terraform/HandsOn.md",
+    "DevOps/Terraform",
+    "DevOps/DevOps Classes/Terraform/HCL(Hashicorp Configuration Language).md",
     "Web Development/Javascript/DOM/DOM (Document Object Model).md",
+    "DevOps/Jenkins/Steps for CICD Pipeline.md",
     "Web Development/Javascript/Array Methods/Spread & Rest.md",
     "Web Development/Javascript/Array Methods/Methods.md",
     "Web Development/Javascript/Array Methods/Destructuring.md",
@@ -194,14 +200,8 @@
     "Web Development/Javascript/Methods/Untitled.md",
     "Web Development/Javascript/Methods",
     "DevOps/GitHub/Webhook.md",
-    "DevOps/GitHub/Personal Access Token.md",
-    "SQL/NOTES.md",
-    "Notes.md",
     "Untitled.canvas",
     "Javascript/index.js",
-    "Javascript/index.html",
-    "Javascript",
-    "Web Development/Untitled.md",
     "DevOps Classes/Deployment Strategies/Architecture.canvas",
     "DevOps Classes/Deployment Strategies/images/Screenshot (108).png",
     "DevOps Classes/Deployment Strategies/images/Screenshot (107).png",

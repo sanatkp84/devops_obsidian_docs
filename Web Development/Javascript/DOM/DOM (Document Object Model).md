@@ -20,7 +20,7 @@
 ```
 document.querySelector("h1");                       //for tags
 document.querySelector("#description");             //for ids
-document.querySelector(".oldImage");
+document.querySelector(".oldImage");                //for class
 
 # For print them
 console.dir(document.querySelector("div a"));      //anchor tag inside div
@@ -54,4 +54,17 @@ obj.getAttribute(attr)
 obj.setAttribute(attr, val)
 ```
 - These are also called as getters & setters.
+
+# Manipulating Style
+
+- using classList
+- `object.classList`
+
+```
+classList.add() to add new classes
+classList.remove() to remove classes
+classList.contains() to check if class exist
+classList.toggle() to toggle between add & remove
+```
+
 
