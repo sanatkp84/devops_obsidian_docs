@@ -24,7 +24,7 @@
 
 - Set of resources (Virtual Machine, Database, S3, AWS Users) must be created with exact similar configuration in Dev, Stage and Production environment.
 
-![](images/Screenshot%202024-12-28%20130529.png)
+![](../../Image%20Resources/Screenshot%202024-12-28%20130529.png)
 
 # Example of a Single Service - Automated Way
 
