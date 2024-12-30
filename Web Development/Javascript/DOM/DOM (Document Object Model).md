@@ -67,4 +67,19 @@ classList.contains() to check if class exist
 classList.toggle() to toggle between add & remove
 ```
 
+# Dom Events
+
+- *onclick*        (when an element is clicked)
+- *onmouseenter*      (when mouse enters an element)
+# Event Listener
+
+*addEventListener*
+
+- element.addEventListener(event,callback)
+
+
+# Mouse Event
+
+https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent
+
 

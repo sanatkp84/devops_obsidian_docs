@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Terraform/Introduction/IAC (Infrastructure as Code).md",
+                "file": "Web Development/Javascript/Important Topics/Loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAC (Infrastructure as Code)"
+              "title": "Loops"
             }
           }
         ]
@@ -164,8 +164,17 @@
   },
   "active": "39ed3b0f043d6ec8",
   "lastOpenFiles": [
-    "DevOps/Image Resources/Screenshot 2024-12-28 130529.png",
+    "Web Development/Javascript/Important Topics/Functions in JS.md",
+    "Web Development/Javascript/DOM/DOM (Document Object Model).md",
+    "Project/todo/script.js",
+    "Project/todo/script..js",
+    "Project/todo/style.css",
+    "Project/todo/index.html",
+    "Project/todo",
+    "Project",
+    "New folder",
     "DevOps/Terraform/Introduction/IAC (Infrastructure as Code).md",
+    "DevOps/Image Resources/Screenshot 2024-12-28 130529.png",
     "DevOps/Image Resources/Screenshot 2024-12-28 130952.png",
     "DevOps/Terraform/Introduction/images/Screenshot 2024-12-28 130529.png",
     "DevOps/Image Resources/Screenshot 2024-12-28 131123.png",
@@ -179,22 +188,14 @@
     "DevOps/Terraform/Introduction/images",
     "Untitled.canvas",
     "DevOps/Encrypt & Decrypt Password.md",
-    "DevOps/Terraform/Introduction",
     "DevOps/DevOps Classes/Terraform/HandsOn.md",
-    "DevOps/Terraform",
     "DevOps/DevOps Classes/Terraform/HCL(Hashicorp Configuration Language).md",
-    "Web Development/Javascript/DOM/DOM (Document Object Model).md",
     "DevOps/Jenkins/Steps for CICD Pipeline.md",
     "Web Development/Javascript/Array Methods/Spread & Rest.md",
     "Web Development/Javascript/Array Methods/Methods.md",
     "Web Development/Javascript/Array Methods/Destructuring.md",
-    "Web Development/Javascript/DOM",
     "Web Development/Javascript/Miscellaneous Topics/Arrow Function.md",
-    "Web Development/Javascript/Array Methods",
-    "Web Development/Javascript/Important Topics/Functions in JS.md",
     "Web Development/Javascript/Important Topics/Loops.md",
-    "Web Development/Javascript/Important Topics",
-    "Web Development/Javascript/Miscellaneous Topics",
     "Web Development/Javascript/Miscellaneous Topics.md",
     "Web Development/Javascript/Important Topics/try & catch.md",
     "Web Development/Javascript/Important Topics/this Keyword.md",
@@ -203,7 +204,6 @@
     "JAVA.md",
     "Web Development/Javascript/Important Topics/Object Literals.md",
     "Web Development/Javascript/images/Pasted image 20241023221243.png",
-    "Web Development/Javascript/images",
     "1st video.md",
     "markdown-cheat-sheet.md",
     "2024-10-18.md",
