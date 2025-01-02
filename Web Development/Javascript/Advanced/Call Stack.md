@@ -39,5 +39,31 @@ console.loh("hello");
 
 # Callback Hell
 
+```
+h1= document.querySelector("h1");
 
+function changeColor(color, delay, nextColorChange) {
+	setTìmeout( () => {
+	hl.style.color = color;
+	if (nextColorChange) nextColorChange();
+  }, delay);
+}
 
+changeColor ("red", 1000, () => {
+	changeColor ("orange", 1000, () => {
+	 changeColor ("green", 1000, () => {
+	  changeColor("yellow", 1000, () => {
+	   changeColor ("blue", 1000);
+	   });
+	 });
+   });
+});
+
+```
+
+- The above code is an example of callback hell.
+- *To prevent this we use "promises", "async" & "awake".
+
+# Promises
+
+- The promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
