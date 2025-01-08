@@ -31,3 +31,8 @@
 
 *package-lock.json* : It records the exact version of every installed depedency, including its sub-dependencies and their versions.
 
+# require v/s import
+
+- `import {sum} from "./math.js"`
+- We can't selevtively load only the pieces we need with require but with import, we can selectively load only the pieces we need, which can save memory.
+- Loading is synchronous for "require" but can be asynchronous for "import".
