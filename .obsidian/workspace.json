@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Node JS/Backend 2(Express)/Library vs Framework.md",
+                "file": "Personal notes/Hello world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Library vs Framework"
+              "title": "Hello world"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,6 +165,9 @@
   },
   "active": "39ed3b0f043d6ec8",
   "lastOpenFiles": [
+    "Web Development/Node JS/Backend 2(Express)/Library vs Framework.md",
+    "Personal notes/Hello world.md",
+    "Personal notes",
     "ExpressDir/node_modules/side-channel-list/test/index.js",
     "ExpressDir/node_modules/side-channel-list/test",
     "ExpressDir/node_modules/side-channel/test/index.js",
@@ -173,14 +177,11 @@
     "ExpressDir/node_modules/object-inspect/example/inspect.js",
     "ExpressDir/node_modules/object-inspect/example/circular.js",
     "ExpressDir/node_modules/object-inspect/example/fn.js",
-    "ExpressDir/node_modules/object-inspect/example/all.js",
-    "ExpressDir/node_modules/object-inspect/example",
     "ExpressDir/node_modules/es-errors/README.md",
     "ExpressDir/node_modules/call-bind-apply-helpers/README.md",
     "ExpressDir/node_modules/side-channel-map/README.md",
     "ExpressDir/node_modules/debug/README.md",
     "Web Development/Node JS/Backend 1/Node.js.md",
-    "Web Development/Node JS/Backend 2(Express)/Library vs Framework.md",
     "Web Development/Javascript/Advanced/APIs.md",
     "Web Development/Javascript/Advanced/Call Stack.md",
     "Web Development/Javascript/Important Topics/try & catch.md",
