@@ -1,6 +1,0 @@
-- for files dwd
-- hi 1234
-- feuufe
-- dewjbfui
-- dkjbwyfug
-- bewgi
