@@ -9,7 +9,7 @@
 
 - Suppose You are taking DB backup manually take at 10 PM and upload it to S3.
 
-![](../../Image%20Resources/Screenshot%202024-12-28%20130952.png)
+![](../../Jenkins/Image%20Resources/Screenshot%202024-12-28%20130952.png)
 
 # Learning from this Work Requirement 
 
@@ -24,17 +24,17 @@
 
 - Set of resources (Virtual Machine, Database, S3, AWS Users) must be created with exact similar configuration in Dev, Stage and Production environment.
 
-![](../../Image%20Resources/Screenshot%202024-12-28%20130529.png)
+![](../../Jenkins/Image%20Resources/Screenshot%202024-12-28%20130529.png)
 
 # Example of a Single Service - Automated Way
 
-![](../../Image%20Resources/Screenshot%202024-12-28%20131007.png)
+![](../../Jenkins/Image%20Resources/Screenshot%202024-12-28%20131007.png)
 
 # Basics of Infrastructure as Code 
 
 - Infrastructure as Code (IaC) is the managing and provisioning of infrastructure through code instead of through manual processes.
 
-![](../../Image%20Resources/Screenshot%202024-12-28%20131020.png)
+![](../../Jenkins/Image%20Resources/Screenshot%202024-12-28%20131020.png)
 
 # Benefits of Infrastructure As Code 
 
@@ -55,21 +55,21 @@
 
 - Categories of Tools are widely divided into two major categories
 
-![](../../Image%20Resources/Screenshot%202024-12-28%20131046.png)
+![](../../Jenkins/Image%20Resources/Screenshot%202024-12-28%20131046.png)
 
 # Configuration Management 
 
 - Configuration Management tools are primarily used to maintain desired configuration of systems (inside servers) 
 - Example: ALL servers should have Antivirus installed with version 10.0.2
 
-![](../../Image%20Resources/Screenshot%202024-12-28%20131055.png)
+![](../../Jenkins/Image%20Resources/Screenshot%202024-12-28%20131055.png)
 
 # Infrastructure Orchestration 
 
 - Infrastructure Orchestration is primarily used to create and manage infrastructure environments.
 - Example: Create 3 Servers with 4 GB RAM, 2 vCPUs. Each server should have firewall rule to allow SSH connection from Office IPs.
 
-![](../../Image%20Resources/Screenshot%202024-12-28%20131106.png)
+![](../../Jenkins/Image%20Resources/Screenshot%202024-12-28%20131106.png)
 
 # How to choose IAC Tool?
 
