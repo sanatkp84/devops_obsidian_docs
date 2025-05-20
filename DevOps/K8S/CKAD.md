@@ -36,3 +36,33 @@
 ```
 kubectl config set-context $(kubectl config current-contyext) --namespace=dev
 ```
+- Find a Pod in all namespaces
+```
+kubectl get pods --all-namespaces | grep <pod-name>
+```
+- Create a pod
+```
+kubectl run nginx --image=nginx
+```
+- Create a deployment
+```
+kubectl create deployment --image=nginx nginx
+```
+- Expose Port
+```
+kubectl expose deployment nginx --port 80
+```
+
+#### Update Commands
+- Edit deployment
+```
+kubectl edit deployment nginx
+```
+- Scale deployment
+```
+kubectl scale deployment nginx --replicas=5
+```
+- Update the image
+```
+kubectl set image deployment nginx nginx=nginx:1.18
+```
