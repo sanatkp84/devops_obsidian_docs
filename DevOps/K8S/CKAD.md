@@ -1,4 +1,4 @@
-# CKAD Exam Notes
+# CKA Exam Notes
 ### Commands for Kubernetes
 - To deploy Application
 `kubectl run hello-minicube`
