@@ -29,3 +29,10 @@
 
 ### Node Controller Working :
 - The Node controller checks the status of nodes every 5 seconds, if any node is not working then it will wait for 40 seconds, if even after that the node's status is "NOT WORKING", then it will flag it as unreachable. Then it will give the node 5 minutes to comeback, if it will not come to the working state then it will replace it with a healthier one if the pods are part of a replica set.
+
+
+### Commands to Remember
+- How to switch into a namespace, so that we don't need to specify the namespace:
+```
+kubectl config set-context $(kubectl config current-contyext) --namespace=dev
+```
