@@ -66,3 +66,8 @@ kubectl scale deployment nginx --replicas=5
 ```
 kubectl set image deployment nginx nginx=nginx:1.18
 ```
+#### How Selector works in commands
+- For finding pods
+```
+kubectl get pods --selector app=app1  
+```
