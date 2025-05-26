@@ -71,3 +71,5 @@ kubectl set image deployment nginx nginx=nginx:1.18
 ```
 kubectl get pods --selector app=app1  
 ```
+--------------------------------------------
+### Taint & Toleration

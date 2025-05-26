@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/My Project Documentation/CICD Pipeline with ArgoCD.md",
+                "file": "DevOps/K8S/CKA Exam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CICD Pipeline with ArgoCD"
+              "title": "CKA Exam"
             }
           }
         ],
@@ -180,6 +180,8 @@
   },
   "active": "8af38a2951fb589c",
   "lastOpenFiles": [
+    "DevOps/K8S/Setup Kubeadm.md",
+    "DevOps/My Project Documentation/CICD Pipeline with ArgoCD.md",
     "DevOps/My Project Documentation/Launch and Host Your First Website on AWS EC2.md",
     "DevOps/Encrypt & Decrypt Password.md",
     "DevOps/K8S/CKA Exam.md",
@@ -192,13 +194,11 @@
     "DevOps/Jenkins/Integration of GitHub with Jenkins using Credentials.md",
     "DevOps/Jenkins/Jenkins Installation Steps.md",
     "DevOps/Jenkins/Jenkins File (Groovy Script).md",
-    "DevOps/My Project Documentation/CICD Pipeline with ArgoCD.md",
     "DevOps/Jenkins/Steps for CICD Pipeline.md",
     "DevOps/DevOps Classes/Kubernetes/Kubernetes Classes.md",
     "DevOps/Untitled",
     "DevOps/DevOps Classes/Ansible/Install Ansible.md",
     "DevOps/DevOps Classes/Ansible/Ansible Commands.md",
-    "DevOps/K8S/Setup Kubeadm.md",
     "DevOps/K8S/Helm Setup & Steps.md",
     "DevOps/K8S/Kubeadm Install/Kubeadm setup.md",
     "DevOps/GitHub/Git Advanced.md",
