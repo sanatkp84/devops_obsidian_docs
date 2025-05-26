@@ -73,3 +73,7 @@ kubectl get pods --selector app=app1
 ```
 --------------------------------------------
 ### Taint & Toleration
+- To taint :
+```
+kubectl taint nodes node-name key=value:taint-effect
+```
