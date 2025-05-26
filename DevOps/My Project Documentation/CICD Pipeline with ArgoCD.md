@@ -1,7 +1,4 @@
 
-AKIAUBKFCO4IQ2D7LRPC
-
-6tHCwPIKvrK/CDfhsz2RajcCsMP2/xKlLaXnv5gS
 
 ### In Your Wanderlust Project:
 
